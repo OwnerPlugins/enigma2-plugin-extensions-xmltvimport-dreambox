@@ -1,5 +1,5 @@
-# enigma2-plugin-extensions-xmltvimport-dreambox
 
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
 [![Python package](https://github.com/Belfagor2005/enigma2-plugin-extensions-xmltvimport-dreambox/actions/workflows/pylint.yml/badge.svg)](https://github.com/Belfagor2005/enigma2-plugin-extensions-xmltvimport-dreambox/actions/workflows/pylint.yml)
 
 
